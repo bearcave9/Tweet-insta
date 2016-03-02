@@ -1,0 +1,3 @@
+content tweet-insta chrome/content/
+overlay chrome://browser/content/browser.xul chrome://tweet-insta/content/tweet_insta.xul
+skin tweet-insta classic/1.0 chrome/skin/
