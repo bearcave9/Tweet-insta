@@ -6,7 +6,7 @@
 		<em:name>Tweet-insta</em:name>
 		<em:version>1.0</em:version>
 		<em:creator>Prakhar Pratyush</em:creator>
-		<em:description>tweet-insta let you tweet any web page instantly from your web browser.</em:description>
+		<em:description>tweet-insta let you tweet instantly from anywhere using browser extension.</em:description>
 		<em:iconURL>chrome://tweet-insta/skin/images/128.png</em:iconURL>
 		<em:targetApplication>
 			<Description>

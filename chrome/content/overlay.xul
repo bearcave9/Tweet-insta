@@ -8,11 +8,28 @@
   <toolbarpalette id="BrowserToolbarPalette">
     <toolbarbutton id="mainToolbarIcon"
             image="chrome://tweet-insta/skin/images/16.png"
-            class="toolbarbutton-1 "
-            label= "Tweet Insta"
-            tooltiptext="Tweet" >   
+             type="panel"
+            class="toolbarbutton-1 chromeclass-toolbar-additional"
+            label= "Tweet"
+            tooltiptext="Tweet Insta" 
+            > 
+
+            <panel id="toolbarPanel"
+            type="arrow"
+            noautofocus="true"
+            consumeoutsideclicks="true"
+            noautohide="false"
+            onpopupshowing="TweetInsta();"
+            level="parent">
+
+            <vbox id="iframeContainerContainer" align="top">
+                <iframe id="myframe" frameborder="0" scrolling="no" style="position:relative; border:0; height:100%; width:100%;" width="340" height="240"/>
+            </vbox>
+        </panel>  
            
             
     </toolbarbutton>
 </toolbarpalette>
 </overlay>
+
+
