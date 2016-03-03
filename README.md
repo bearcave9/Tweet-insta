@@ -1,23 +1,8 @@
-Tweet-insta
+Tweet-insta  --v-1.0
 
-v-1.0
+![alt tag](https://github.com/bearcave9/Tweet-insta/blob/master/screenshot.png)
 
 Prakhar Pratyush
-
-/Tweet-insta                                                                                                                      
-|----chrome.manifest
-|----install.rdf
-|----README
-|----/chrome
-|    |----/content
-|    |    |----tweet_insta.js
-|    |    |----overlay.xul
-|    |
-|    |----/skin
-|    |    |----overlay.css
-|    |    |----/images
-|    |    |    |----tweet-insta-icon.png
-
-
+IIT Roorkee
 
 
