@@ -4,6 +4,6 @@ Tweet-insta  --v-1.0
 
 Contact Me:~ pnation2020@gmail.com
 
-Note:~ If you want to add certain functionalities into this firefox extension, feel free to staert an issue or send pull requests.
+Note:~ If you want to add certain functionalities into this firefox extension, feel free to start an issue or send pull requests.
 
 
