@@ -1,28 +1,19 @@
-<?xml version="1.0"?>
-
-<RDF xmlns="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-     xmlns:em="http://www.mozilla.org/2004/em-rdf#">
-
-    <Description about="urn:mozilla:install-manifest">
-
-        <!-- Required Items -->
-        <em:id>tweet-insta@prakhar.com</em:id>
-        <em:name>Tweet-insta</em:name>
-        <em:type>2</em:type>
-        <em:version>1.0</em:version>
-
-        <em:targetApplication>
-            <Description>
-                <em:id>{ec8030f7-c20a-464f-9b0e-13a3a9e97384}</em:id>
-                <em:minVersion>4.0</em:minVersion>
-                <em:maxVersion>99.*</em:maxVersion> <!-- In practice, the maxVersion shouldn't be this large -->
-            </Description>
-        </em:targetApplication>
-
-        <!-- Optional Items -->
-        <em:creator>Prakhar Pratyush</em:creator>
-        <em:description>Tweet instantly from browser</em:description>
-        <em:homepageURL>https://github.com/bearcave9</em:homepageURL>
-
-    </Description>
+<?xml version='1.0' encoding='utf-8'?>
+<RDF xmlns="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:em="http://www.mozilla.org/2004/em-rdf#">
+	<Description about="urn:mozilla:install-manifest">
+		<em:id>tweet-insta@prakhar.com</em:id>
+		<em:type>2</em:type>
+		<em:name>Tweet-insta</em:name>
+		<em:version>1.0</em:version>
+		<em:creator>Prakhar Pratyush</em:creator>
+		<em:description>tweet-insta let you tweet any web page instantly from your web browser.</em:description>
+		<em:iconURL>chrome://tweet-insta/skin/images/128.png</em:iconURL>
+		<em:targetApplication>
+			<Description>
+				<em:id>{ec8030f7-c20a-464f-9b0e-13a3a9e97384}</em:id><!-- firefox -->
+				<em:minVersion>3.0</em:minVersion>
+				<em:maxVersion>44.*</em:maxVersion>
+			</Description>
+		</em:targetApplication>	
+	</Description>
 </RDF>

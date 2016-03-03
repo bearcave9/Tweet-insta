@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<?xml-stylesheet href="chrome://tweet-insta/skin/overlay.css" type="text/css"?>
+
+<overlay id="tweet-insta-Overlay"
+         xmlns="http://www.mozilla.org/keymaster/gatekeeper/there.is.only.xul">
+         
+    <script type="application/x-javascript"
+            src="chrome://tweet-insta/content/tweet_insta.js" />
+            
+</overlay>

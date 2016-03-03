@@ -11,10 +11,13 @@ Prakhar Pratyush
 |----/chrome
 |    |----/content
 |    |    |----tweet_insta.js
-|    |    |----tweet_insta.xul
+|    |    |----overlay.xul
 |    |
 |    |----/skin
 |    |    |----overlay.css
 |    |    |----/images
 |    |    |    |----tweet-insta-icon.png
+
+
+
 
