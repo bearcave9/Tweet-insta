@@ -4,7 +4,7 @@ v-1.0
 
 Prakhar Pratyush
 
-/Tweet-insta
+/Tweet-insta                                                                                                                      
 |----chrome.manifest
 |----install.rdf
 |----README
