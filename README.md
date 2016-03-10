@@ -1,9 +1,11 @@
 Tweet-insta  --v-1.0
+--------------------
+Tweet-insta lets you tweet immediately from the browser extension without the need of opening a separate tab for twitter.
+
+
+Contact
+-------
+pnation2020@gmail.com
+pnation @irc.oftc.net
 
 ![alt tag](https://github.com/bearcave9/Tweet-insta/blob/master/screenshot.png)
-
-Contact Me:~ pnation2020@gmail.com
-
-Note:~ If you want to add certain functionalities into this firefox extension, feel free to start an issue or send pull requests.
-
-
